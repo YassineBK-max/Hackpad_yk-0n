@@ -34,7 +34,7 @@ I was looking for other designs to see how to include a rotary encoder and a scr
 This time I could record everything.
 I spent like an hour to do this while searching and a half in assigning the new footprints (I know it is too much but I could not find the libraries)
 
-![](PCB-Design-2.png)
+![](PCB-design-2.png)
 ![](footprints-2.png)
 
 **Total time spent: 1.5h**
