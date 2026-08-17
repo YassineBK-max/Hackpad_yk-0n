@@ -27,3 +27,14 @@ Tomorrow I will be enhancing these things.
 ![](footprints-1.png)
 
 **Total time spent: 2h**
+# August 17th: <Designing my PCB.2>
+
+I was looking for other designs to see how to include a rotary encoder and a screen, but I've realized that my reasoning about the pin connections and the keys was incorrect, so I implemented a matrix and reduced the number of keys to 9. I have also changed the controller to the actual one (Seeed XIAO RP2040)
+
+This time I could record everything.
+I spent like an hour to do this while searching and a half in assigning the new footprints (I know it is too much but I could not find the libraries)
+
+![](PCB_Design-1.png)
+![](footprints-1.png)
+
+**Total time spent: 1.5h**
