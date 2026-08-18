@@ -45,3 +45,10 @@ I spent like an hour to do this while searching and a half in assigning the new 
 ![](footprints-2.png)
 
 **Total time spent: 1.5h**
+# August 17th: <Designing my PCB.3>
+Today it went very well, the instructions on hackpad were very illustrative and I could design my PCB routing with no problems, well, I was confused at first but, after a hour of trial and error and because it seemed kind off messed up, I was near 2.5 h working on it, but I'm satisfied.
+
+
+![](pcb_rout.webp)
+
+**Total time spent: 2.5h**
